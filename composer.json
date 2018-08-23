@@ -2,7 +2,7 @@
     "name": "swking/http-t",
     "description": "hello world",
     "license": "Apache-2.0",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "version": "1.0.1",
     "authors": [
         {
